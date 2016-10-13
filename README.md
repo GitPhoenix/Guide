@@ -1,7 +1,7 @@
 # Guide防彩之云APP启动页和导航页，并解决了启动黑屏问题
 ######效果图：
 ![guide.gif](http://upload-images.jianshu.io/upload_images/3066970-fc3f12547e5a3d9e.gif?imageMogr2/auto-orient/strip)
-一：启动页
+<br>一：启动页
 * 2秒后进入主界面或者导航页
 ```
 new Handler().postDelayed(new Runnable() {
