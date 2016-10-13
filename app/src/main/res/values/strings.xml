@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guide</string>
+
+    <string name="guide_enter">开启彩之云V%1$s</string>
+</resources>
